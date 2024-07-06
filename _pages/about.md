@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'></a>
+# subtitle: <a href='#'></a>
 
 # profile:
 #   align: right
@@ -47,7 +47,7 @@ As the team grew, so did my responsibilities. Beyond backend development, I step
 
 FactWise was a crucible of learning, where I honed my backend skills and developed leadership abilities. I thrived on the challenge of constantly setting the bar higher and surpassing it. However, after a period of rapid growth, I realized I had hit a plateau. I yearned for greater challenges and broader horizons, prompting my decision to leave FactWise and join Pramga.
 
-Click [here](https://sahilr05.github.com/cv) to view my achievements at FactWise.
+Click [here](https://sahilr05.github.io/cv) to view my achievements at FactWise.
 
 #### Pragma. (Formerly Logisy)
 I joined Pramga on July 19, 2023. My first week was spent exploring 1Checkout, the project I was set to handle, and familiarizing myself with various dashboards. Competing platforms like GoKwik and Shopflo highlighted the importance of a seamless checkout experience. I was surprised to learn that many users abandon their carts when required to input multiple details. Systems like 1Checkout, which auto-populate information and streamline the payment process, can boost conversion rates by over 20%—a remarkable insight.
@@ -58,7 +58,7 @@ Beyond the technical aspects, I communicated directly with merchants, gaining va
 
 Working at Pramga has been a rewarding experience. The co-founders are some of the best people I've worked with—down-to-earth, fun, and incredibly smart. Their leadership and camaraderie make Pramga an exceptional place to grow and innovate.
 
-Click [here](https://sahilr05.github.com/cv) to view my achievements at Pragma.
+Click [here](https://sahilr05.github.io/cv) to view my achievements at Pragma.
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
