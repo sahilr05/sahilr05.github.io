@@ -1,1 +1,136 @@
-{"basics":{"name":"Albert Einstein","label":"Scientist","image":"","email":"albert@einstein.de","phone":"(912) 123-4567","url":"https://alshedivat.github.io/al-folio/","summary":"A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time","location":{"address":"2712 Broadway St","postalCode":"CA 94115","city":"San Francisco","countryCode":"US","region":"California"},"profiles":[{"network":"Twitter","username":"AlbertEinstein","url":"https://twitter.com/AlbertEinstein"}]},"work":[{"name":"Institute for Advanced Study, Princeton University","position":"Professor of Theoretical Physics","url":"https://example.com","startDate":"1933-01-01","endDate":"1955-01-01","summary":"Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.","highlights":["Relativity"]}],"volunteer":[{"organization":"People's Climate March","location":"Zurich, Switzerland","position":"Lead Organizer","url":"https://example.com","startDate":"2014-04-01","endDate":"2015-07-01","summary":"Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.","highlights":["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.","Men of the year 2014 by Time magazine"]}],"education":[{"institution":"University of Zurich, Zurich, Switzerland","location":"Zurich, Switzerland","url":"https://www.uzh.ch/","area":"Software Development","studyType":"PhD","startDate":"1905-01-01","endDate":"1905-01-01","score":"10","courses":["Theory of Relativity"]}],"awards":[{"title":"Nobel Prize in Physics","date":"1921-11-01","awarder":"Royal Swedish Academy of Sciences","url":"https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/","summary":"The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"}],"certificates":[{"name":"Machine Learning","date":"2018-01-01","issuer":"Stanford University","url":"https://example.com","icon":"fa-solid fa-location-dot"},{"name":"Quantum Computing","date":"2018-01-01","issuer":"Stanford University","url":"https://example.com","icon":"fa-solid fa-tag"},{"name":"Quantum Information","date":"2018-01-01","issuer":"Stanford University","url":"https://example.com","icon":"fa-solid fa-envelope"},{"name":"Quantum Cryptography","date":"2018-01-01","issuer":"Stanford University","url":"https://example.com","icon":"fa-solid fa-hashtag"},{"name":"Quantum Communication","date":"2018-01-01","issuer":"Stanford University","url":"https://example.com","icon":"fa-solid fa-calendar"},{"name":"Quantum Teleportation","date":"2018-01-01","issuer":"Stanford University","url":"https://example.com","icon":"fa-solid fa-clipboard-check"}],"publications":[{"name":"Zur Elektrody/namik bewegter Körper","publisher":"Annalen der Physik","releaseDate":"1905-06-30","url":"https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies","summary":"It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."},{"name":"Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt","publisher":"Annalen der Physik","releaseDate":"1905-03-18","url":"https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt","summary":"In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."},{"name":"Die Grundlage der allgemeinen Relativitätstheorie","publisher":"Annalen der Physik","releaseDate":"1916-03-20","url":"https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie","summary":"The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."}],"skills":[{"name":"Physics","level":"Master","icon":"fa-solid fa-hashtag","keywords":["Quantum Mechanics","Quantum Computing","Quantum Information","Quantum Cryptography","Quantum Communication","Quantum Teleportation"]}],"languages":[{"language":"German","fluency":"Native speaker","icon":""},{"language":"English","fluency":"Fluent","icon":""}],"interests":[{"name":"Physics","icon":"fa-solid fa-tag","keywords":["Quantum Mechanics","Quantum Computing","Quantum Information","Quantum Cryptography","Quantum Communication","Quantum Teleportation"]}],"references":[{"name":"Professor John Doe","icon":"fa-solid fa-laptop","reference":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"},{"name":"Professor John Doe","icon":"fa-solid fa-thumbtack","reference":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"}],"projects":[{"name":"Quantum Computing","summary":"Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.","highlights":["Quantum Teleportation","Quantum Cryptography"],"startDate":"2018-01-01","endDate":"2018-01-01","url":"https://example.com"}]}
+{
+  "basics": {
+    "name": "Sahil R. Rajpal",
+    "designation": "Backend Engineer",
+    "image": "",
+    "email": "sahilrajpal85@gmail.com",
+    "phone": "+918149547570",
+    // "url": "https://sahilr05.github.io/",
+    "summary": "Software engineer with a Bachelor’s in Computer Engineering, with nearly 3 years of experience, strong analytical skills, teamwork dedication, and a drive for tackling challenging projects to expand skill sets.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "IN",
+      "region": "Maharashtra"
+    },
+    "profiles": [
+      {
+        // "network": "Twitter",
+        // "username": "AlbertEinstein",
+        // "url": "https://twitter.com/AlbertEinstein"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Pragma. (Formerly Logisy)",
+      "position": "Backend Engineer",
+      "url": "https://bepragma.ai",
+      "startDate": "2023-07-20",
+      "endDate": "",
+      "summary": "Spearheaded the development of 1Checkout, boosting user conversion rates by over 20% through the integration of multiple payment gateways and the implementation of key features. My efforts in optimizing system performance and engaging with merchants ensured a seamless user experience and product relevance.",
+      "highlights": [
+        "1Checkout Development: Spearheaded the development of 1Checkout, enhancing user conversion rates by over 20%. Integrated various payment gateways including PhonePe, Razorpay, Snapmint, and Cashfree.", 
+        "Feature Implementation: Built features like partial COD, shipping, and blacklisting of emails, phone numbers, and cities. Improved user experience and reduced cart abandonment rates.",
+        "System Optimization: Conducted thorough code reviews, implemented code optimizations, and ensured adherence to PEP8 standards, resulting in improved system performance and maintainability.",
+        "Customer Interaction: Engaged with merchants on calls to gather feedback and built features based on their needs, enhancing product relevance and user satisfaction.",
+        "Collaboration and UX Enhancement: Actively collaborated with cross-functional teams to brainstorm and implement UX improvements, shaping the direction of the project.",
+        "Crisis Management: Successfully navigated critical production failures, demonstrating strong multitasking abilities and effective problem-solving skills."]
+    },
+    {
+      "name": "FactWise",
+      "position": "Founding Engineer",
+      "url": "https://factwise.io",
+      "startDate": "2021-07-19",
+      "endDate": "2023-07-19",
+      "summary": "At FactWise, I led the development of a comprehensive source-to-pay system, owning over 90% of the backend modules. My focus on clean code principles, effective collaboration with stakeholders, and direct customer interactions enhanced procurement efficiency and product usability.",
+      "highlights": [
+        "Source to Pay System: Designed and implemented a comprehensive source-to-pay system, streamlining procurement processes and improving efficiency.", 
+        "Backend Development Leadership: Owned and developed over 90% of the modules, including events, negotiation, purchase orders, draft purchase orders, invoices, quality checks, goods receipts, admin panel, notification configurations, and approval flows.",
+        "Quality and Code Maintenance: Adhered to clean code principles, enhancing the accuracy, modularity, and overall quality of the codebase.",
+        "Team Collaboration: Worked closely with product management and engineering stakeholders to ensure efficient implementation strategies and high-quality deliverables.",
+        "Task Management: Assigned tasks to team members based on their strengths and monitored progress to ensure timely completion of projects.",
+        "Mentorship: Mentored PM interns and dev interns, helping them ramp up, understand team dynamics, and learn to ask the right questions.",
+        "Customer Interaction: Engaged with merchants on calls to understand their requirements and built features tailored to their needs, improving product usability and customer satisfaction."]
+    }
+  ],
+  "volunteer": [
+  ],
+  "education": [
+    {
+      "institution": "Vivekanand Education Society's Institute of Technology",
+      "location": "Mumbai, Maharashtra",
+      "url": "https://vesit.ves.ac.in/",
+      "area": "Computer Engineering",
+      "studyType": "B.E.",
+      "startDate": "2017-08-01",
+      "endDate": "2021-10-06",
+      "score": "8.54"
+      // "courses": ["Theory of Relativity"]
+    }
+  ],
+  "awards": [
+  ],
+  "certificates": [
+    {
+      "name": "Advanced Python",
+      "date": "2021-01-21",
+      "issuer": "Cutshort",
+      "url": "https://cutshort.io/certificate/33321",
+      "icon": "fa-solid fa-location-dot"
+    }
+  ],
+  "publications": [
+    
+  ],
+  "skills": [
+    {
+      "name": "Python",
+      // "level": "Intermediate",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Django REST",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "FastAPI",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "PostgreSQL",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Docker",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Celery",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Redis",
+      "icon": "fa-solid fa-hashtag"
+    }
+  ],
+  "interests": [
+  ],
+  "references": [
+  ],
+  "projects": [
+    {
+      "name": "Sitechecker",
+      "summary": "A web-based platform for real-time service monitoring with customizable alerting plugins",
+      "highlights": [
+        "Infrastructure Monitoring Platform: Developed a free, open-source, and self-hosted infrastructure monitoring platform capable of monitoring various services. Implemented alerting mechanisms, including SMS, E-mail, and Telegram alerts, to notify users in case of service misbehavior or downtime.",
+        "Extensible Plugin Functionality: Incorporated extensible plugin functionality, enabling the creation of separate alerting and monitoring modules to cater to diverse monitoring needs.",
+        "Scalable Dockerized Stateless Workers: Dockerized stateless workers, ensuring a scalable solution that can be easily expanded based on the number of monitoring checks required.",
+        "Efficient Task Distribution with Celery: Managed Celery workers for efficient task distribution, dynamically adjusting the workload based on the number of service checks to maintain optimal performance and responsiveness."],
+      "startDate": "2020-04-01",
+      "endDate": "2020-06-01",
+      "url": "https://github.com/sahilr05/sitechecker"
+    }
+  ]
+}
