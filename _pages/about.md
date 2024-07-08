@@ -32,9 +32,7 @@ What started as a pastime during lockdown turned into a career-defining project.
 
 ### Career Path
 
-When COVID-19 hit, campus placements at my college took a significant downturn. Despite numerous interviews with various startups, I faced rejection after rejection. However, persistence paid off, and I eventually began receiving calls from different companies, leading to multiple offers. I **chose to join** a promising Bangalore-based startup, only to have the **offer rescinded** two days before my start date. 
-Devastating? Definitely. **But f-k it we ball!**
-<!-- It was a devastating blow, but setbacks often pave the way for new opportunities. -->
+When COVID-19 hit, campus placements at my college took a significant downturn. Despite numerous interviews with various startups, I faced rejection after rejection. However, persistence paid off, and I eventually began receiving calls from different companies, leading to multiple offers. I **chose to join** a promising Bangalore-based startup, only to have the **offer rescinded** two days before my start date. It was a devastating blow, but setbacks often pave the way for new opportunities.
 
 I jumped back into the job hunt with renewed determination and soon secured an offer from FactWise on July 8, 2021.
 
